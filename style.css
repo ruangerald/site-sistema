@@ -17,3 +17,6 @@ a:hover{
 a:visited{
     color: white;
 }
+main p span {
+    font-weight: bold;
+}
